@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "LAST UPDATE",
   "main": "main.js",
+ "engines": {
+    "node": "14.1"
+  }
   "directories": {
     "lib": "lib"
   },
