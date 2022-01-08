@@ -2,7 +2,7 @@
   "name": "NANABOT",
   "version": "1.0.0",
   "description": "LAST UPDATE",
-  "main": "main.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
@@ -39,7 +39,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "node main",
+    "start": "node index.js",
     "test": "supervisor main"
   },
   "repository": {
